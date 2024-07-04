@@ -6,9 +6,6 @@ function fibs(n) {
   console.log(arr);
 }
 
-/* fibs(8);
- */
-
 function fibsRec(n) {
   if (n === 1) {
     return [0];
