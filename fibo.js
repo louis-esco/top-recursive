@@ -7,6 +7,7 @@ function fibs(n) {
 }
 
 fibs(8);
+fibs(9);
 
 function fibsRec(n) {
   if (n === 1) {
